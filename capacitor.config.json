@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "users-auth-app",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
